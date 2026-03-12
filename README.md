@@ -1,6 +1,6 @@
-## Olá, Eu sou Peterson Brito, desenvolver Front End 🥊🥋🎮💻
+## Olá, Eu sou Peterson Brito, Desenvolvedor Web 🥊🥋🎮💻
 
-- 💻 Desenvolvedor Web apaixonado por tecnologia e criação de interfaces modernas.
+- 💻 Apaixonado por tecnologia e criação de interfaces modernas. Experiência com React.js, JavaScript, HTML, CSS, Tailwind, Material UI, Node.js, Python e Flask, com foco em aplicações SPA e boas práticas de UI/UX.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Técnico em Desenvolvimento Web pela FPF Tech.
 - 🚀 Sempre aprendendo novas tecnologias e buscando criar soluções eficientes e escaláveis.
 
