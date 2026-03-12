@@ -1,14 +1,18 @@
-## Olá, Eu sou Peterson Brito, Software Developer 💻
+## 𝙾𝚕𝚊́, 𝚎𝚞 𝚜𝚘𝚞 Peterson Brito | Desenvolvedor de Software 💻
 
-- 💻 Apaixonado por tecnologia e criação de interfaces modernas. Experiência com React.js, JavaScript, HTML, CSS, Tailwind, Material UI, Node.js, Python e Flask, com foco em aplicações SPA e boas práticas de UI/UX.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Técnico em Desenvolvimento Web pela FPF Tech.
-- 🚀 Sempre aprendendo novas tecnologias e buscando criar soluções eficientes e escaláveis.
+#### Apaixonado por tecnologia e pela criação de interfaces modernas, possuo experiência com React.js, JavaScript, HTML, CSS, Tailwind, Material UI, Node.js, Python e Flask, com foco no desenvolvimento de aplicações SPA e na aplicação de boas práticas de UI/UX. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Técnico em Desenvolvimento Web pela FPF Tech. Estou sempre aprendendo novas tecnologias e buscando desenvolver soluções eficientes e escaláveis.
 
- <div align="center">  
-   <a href="https://www.linkedin.com/in/peterson-brito-048380149/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://github.com/PetBr1995" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-   <a href="mailto:dev.petersonbrito@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- </div>
+<div align="center" style="margin-top:30px;">  
+   <a href="https://www.linkedin.com/in/peterson-brito-048380149/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://github.com/PetBr1995" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+   </a>
+   <a href="mailto:dev.petersonbrito@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+</div>
 
 <div align="center" style="margin: 0 40px;">
   <h2>Tecnologias 💻</h2>
