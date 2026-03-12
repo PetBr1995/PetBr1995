@@ -49,7 +49,9 @@
 </div>
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PetBr1995/PetBr1995/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
+</p>
 
 
 
