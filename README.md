@@ -1,4 +1,6 @@
-## 𝙾𝚕𝚊́, 𝚎𝚞 𝚜𝚘𝚞 Peterson Brito | Desenvolvedor de Software 💻
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F728&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Peterson;Software+Developer;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
+</div>
 
 #### Apaixonado por tecnologia e pela criação de interfaces modernas, possuo experiência com React.js, JavaScript, HTML, CSS, Tailwind, Material UI, Node.js, Python e Flask, com foco no desenvolvimento de aplicações SPA e na aplicação de boas práticas de UI/UX. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Técnico em Desenvolvimento Web pela FPF Tech. Estou sempre aprendendo novas tecnologias e buscando desenvolver soluções eficientes e escaláveis.
 
@@ -17,7 +19,7 @@
 <div align="center" style="margin: 0 40px;">
   <h2>Tecnologias 💻</h2>
 </div>
-  
+     
 <div align="center">
 
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
