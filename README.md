@@ -28,10 +28,15 @@
 
  ##
   
-<div>
-  <a href="https://https://github.com/PetBr1995">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PetBr1995&show_icons=true&theme=merko"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetBr1995&show_icons=true&theme=merko&layout=donut"/>
+<div align="center">
+  <a href="https://github.com/PetBr1995">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PetBr1995&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetBr1995&layout=compact&theme=merko&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PetBr1995&theme=merko&hide_border=true"/>
 </div>
 
 
